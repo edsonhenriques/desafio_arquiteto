@@ -1,6 +1,4 @@
-# Desafio Arquiteto de Soluções
-
-## Olá!👋Bem vindo a página do Desafio de Arquitetura de Soluções
+## Olá!👋Bem vindo do Desafio de Arquitetura de Soluções
 
 <div>
 <a href = "mailto:edsonhenriques@yaho.com"><img src="https://img.shields.io/badge/-eMail-%23333?style=for-the-badge&logo=mail.ru&logoColor=white" target="_blank"></a>
